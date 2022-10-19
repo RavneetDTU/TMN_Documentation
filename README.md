@@ -120,5 +120,10 @@ Authorization: Bearer <Your token>
 21. Danish - da
 22. Finnish - fi
 23. Greek - el
+24. Esperanto - eo
+25. Hungarian - hu
+26. Irish - ga
+27. Persian - fa
+28. Slovik - sk
 
 ```
