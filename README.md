@@ -125,5 +125,12 @@ Authorization: Bearer <Your token>
 26. Irish - ga
 27. Persian - fa
 28. Slovik - sk
+29. Czech - cs
+30. Danish - da
+31. Polish - pl
+32. Swedish - sv
+33. Thai - th
+34. Catalan - ca
+
 
 ```
