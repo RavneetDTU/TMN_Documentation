@@ -131,6 +131,13 @@ Authorization: Bearer <Your token>
 32. Swedish - sv
 33. Thai - th
 34. Catalan - ca
+35. Bulgarian - bg
+36. Xhosa - xh
+37. Swahilli (Congo) - swc
+38. Macedonian - mk
+39. Welish - cy
+40. Estonian - et
+41. Basque - eu
 
 
 ```
